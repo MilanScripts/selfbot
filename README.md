@@ -45,5 +45,5 @@ A custom Python based selfbot for Discord featuring fun commands, moderation uti
 ### 📦 Installation
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/selfbot.git
+   git clone https://github.com/milanscripts/selfbot.git
    cd selfbot
